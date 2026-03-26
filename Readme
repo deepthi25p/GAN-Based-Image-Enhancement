@@ -1,0 +1,21 @@
+# GAN-Based Image Enhancement
+
+This project uses a Generative Adversarial Network (GAN) to enhance low-light images.
+
+## Features
+- Converts dark images into enhanced images
+- Uses Generator and Discriminator architecture
+- Implemented using TensorFlow and Keras
+
+## Technologies
+- Python
+- TensorFlow
+- OpenCV
+
+## Results
+The model successfully improves brightness and visual clarity of low-light images.
+
+## Future Work
+- Use larger datasets
+- Improve GAN architecture
+- Apply for real-world applications like surveillance and medical imaging
